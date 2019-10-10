@@ -10,6 +10,6 @@ charCmp (a1, b1) (a2, b2)
   | b1 > b2 = GT
   | b1 == b2 = EQ
 
-lista = [(12, "marino"), (21, "marivaldo"), (22, "marina"), (18, "maria")]
+lista = [(216, "marino"), (215, "marivaldo"), (220, "marina"), (181, "maria")]
 
 help = "sortBy numCmp/charCmp lista"
